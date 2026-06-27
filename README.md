@@ -1,9 +1,4 @@
 # Heart Disease Prediction
-
-- LinkedIn [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan)
-- Medium [KalyanMurapaka274](https://medium.com/@kalyanmurapaka274)
-
-
 ## About The Project
 
 
@@ -145,12 +140,6 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
-## Contact
-
-Hema Kalyan Murapaka - [@kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)
-
 
 ## Acknowledgements
 
