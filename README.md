@@ -30,15 +30,12 @@ This dataset gives information related to heart disease. The dataset contains 13
 
  - Pandas
  - Numpy
+ - Machine Learning
  - Scikit-Learn
- - Seaborn
+ - HTML/CSS
  - Matplotlib
  - Flask
- - DVC (Data Version Control)
- - MLFlow
- - Catboost
- - XG Boost
-
+   
 ## Getting Started
 
 This will help you understand how you may give instructions on setting up your project locally.
